@@ -1,8 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:6
-## Generated with https://github.com/google/shaka-packager version v2.2.1-3541166-release
-#EXT-X-TARGETDURATION:7
+#EXT-X-TARGETDURATION:300
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:6.000,
+#EXTINF:60.0,
 https://www.filmmodu.org/uploads/subs/tt0107302/0.vtt
 #EXT-X-ENDLIST
