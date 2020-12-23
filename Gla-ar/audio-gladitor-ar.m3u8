@@ -2,6 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:100000,
+#EXTINF:1000,
 http://massin.duckdns.org/Movies/Gladiator/gladiator.aac
 #EXT-X-ENDLIST
